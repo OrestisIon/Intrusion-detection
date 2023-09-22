@@ -1,6 +1,6 @@
 # Intrusion Detection System in C Programming Language
 
-## This is a program showcasing my skills in working with **Network Protocols** and also handling **Multithreading** to exponentially increase the speed.
+## This is a project showcasing my skills in working with **Network Protocols** and also handling **Multithreading** to exponentially increase the speed.
 
 ### Main points of the Program:
 - Packet parsing using the libcap library
